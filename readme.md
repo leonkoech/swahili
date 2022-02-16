@@ -1,4 +1,4 @@
-# RainMeter Skin 
+# Swahili Rainmeter Skin 
 
 This is a rainmeter skin which translates the first 7 sayings of the google arts and culture kanga(leso) messages based on the swahili cukture.
 The skin has a translation to japanese as I am currently looking into learning Japanese. Theoretically it should change every day after 24 hours from the time it was activated.
